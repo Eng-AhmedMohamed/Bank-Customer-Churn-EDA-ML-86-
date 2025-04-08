@@ -1,3 +1,6 @@
+***Please Run code in (colab or jupyter notebook or kaggle) to see all outputs of cells***
+
+
 # Bank Customer Churn Prediction
 
 A machine learning project to predict whether customers will leave a bank using customer demographics and account history.
